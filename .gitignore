@@ -1,0 +1,6 @@
+build
+evaluation
+install
+log
+*.txt
+__pycache__
